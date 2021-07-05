@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\testinium\Desktop\testAppiumGetir\Mobile\Mobile\specs\getirsample.spec" time="1023.245" timestamp="2021-07-05T13:30:40" name="Specification Heading" errors="0" hostname="DESKTOP-76NF49L">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="GetirSample - Case 1" time="1023.245"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

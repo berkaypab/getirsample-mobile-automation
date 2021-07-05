@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f66df67a-f79b-4760-9c2c-f4d0c5dc4d52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case-3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/java.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/xml-report/result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/getirsample.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/getirsample.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/helper/StoreHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/model/ElementInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/model/SelectorInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/selector/AndroidSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/selector/IOSSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/selector/Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/selector/SelectorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/getir/Mobile/selector/SelectorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/getir/Mobile/HookImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/getir/Mobile/StepImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/getir/Mobile/helper/StoreHelperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/element-values/MainPage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TestiniumMobile-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/helper/StoreHelper$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/helper/StoreHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/model/ElementInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/model/SelectorInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/selector/AndroidSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/selector/IOSSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/selector/Selector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/selector/SelectorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/getir/Mobile/selector/SelectorType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/getir/Mobile/HookImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/getir/Mobile/StepImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/getir/Mobile/StepImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/getir/Mobile/helper/StoreHelperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/element-values/MainPage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Concept" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1nsSpdHksbiGDZKuyKW9bNpC240" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Gauge Execution.GetirSample - Case 1">
+    <configuration name="GetirSample - Case 1" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/getirsample.spec:10" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="GetirSample" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetirSample - Case 2 (3)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/getirsample.spec:25" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TestiniumMobile" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetirSample - Case 2 (4)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/getirsample.spec:25" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TestiniumMobile" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetirSample - Case 2 (5)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/getirsample.spec:25" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TestiniumMobile" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetirSample - Case 2" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/getirsample.spec:25" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="GetirSample" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.GetirSample - Case 1" />
+        <item itemvalue="Gauge Execution.GetirSample - Case 2" />
+        <item itemvalue="Gauge Execution.GetirSample - Case 2" />
+        <item itemvalue="Gauge Execution.GetirSample - Case 2 (5)" />
+        <item itemvalue="Gauge Execution.GetirSample - Case 2 (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f66df67a-f79b-4760-9c2c-f4d0c5dc4d52" name="Default Changelist" comment="" />
+      <created>1612177489886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612177489886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

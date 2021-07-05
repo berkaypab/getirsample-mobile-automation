@@ -1,0 +1,10 @@
+com\Testinium\Mobile\helper\RandomString.class
+com\Testinium\Mobile\selector\IOSSelector.class
+com\Testinium\Mobile\selector\SelectorType.class
+com\Testinium\Mobile\helper\StoreHelper$1.class
+com\Testinium\Mobile\model\ElementInfo.class
+com\Testinium\Mobile\model\SelectorInfo.class
+com\Testinium\Mobile\selector\Selector.class
+com\Testinium\Mobile\helper\StoreHelper.class
+com\Testinium\Mobile\selector\AndroidSelector.class
+com\Testinium\Mobile\selector\SelectorFactory.class
